@@ -2,7 +2,7 @@
 
 > License: <a href="http://www.opensource.org/licenses/mit-license.php" target="_blank">_MIT_</a>.
 
-> Version: _0.1_
+> Version: _0.1.0_
 
 > Requires: _jQuery 1.7+, Bootstrap 3_
 
