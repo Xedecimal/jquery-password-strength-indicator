@@ -1,5 +1,5 @@
 /*
- * jQuery Password Strength Indicator Plugin v0.2
+ * jQuery Password Strength Indicator Plugin v0.1
  *
  * https://www.humankode.com
  *
