@@ -1,0 +1,30 @@
+{
+  "name": "jquery-password-strength-indicator",
+  "version": "0.1.0",
+  "description": "A simple jquery plugin that indicates how strong a password is.",
+  "main": "dist/jquery.passwordstrength.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecarlo/jquery-password-strength-indicator.git"
+  },
+  "keywords": [
+    "password",
+    "password strength indicator",
+    "password indicator",
+    "security",
+    "jquery",
+    "bootstrap",
+    "js",
+    "web",
+    "front-end"
+  ],
+  "author": { 
+    "name" : "Carlo van Wyk",
+    "url" : "https://www.humankode.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecarlo/jquery-password-strength-indicator/issues"
+  },
+  "homepage": "https://github.com/thecarlo/jquery-password-strength-indicator#readme"
+}
