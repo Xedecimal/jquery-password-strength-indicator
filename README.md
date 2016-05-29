@@ -19,4 +19,4 @@ $('#password').passwordStrength();
 
 ####Visual example:
 
-![jQuery Password Strenght Indicator example](https://cloud.githubusercontent.com/assets/5310264/15634807/b9a80360-25cd-11e6-8a74-ca1835b2b4cc.png)
+![jQuery Password Strenght Indicator example](https://cloud.githubusercontent.com/assets/5310264/15634884/4a4f6c4a-25cf-11e6-8ffc-f4b3419b1694.png)
