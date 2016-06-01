@@ -18,13 +18,18 @@
     "web",
     "front-end"
   ],
-  "author": { 
-    "name" : "Carlo van Wyk",
-    "url" : "https://www.humankode.com"
+  "author": {
+    "name": "Carlo van Wyk",
+    "url": "https://www.humankode.com"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thecarlo/jquery-password-strength-indicator/issues"
   },
-  "homepage": "https://github.com/thecarlo/jquery-password-strength-indicator#readme"
+  "homepage": "https://github.com/thecarlo/jquery-password-strength-indicator#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
 }
