@@ -26,8 +26,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.9.1 - 2",
-    "bootstrap": "3.x"
+    "jquery": "2.2.4",
+    "bootstrap": "3.3.x"
   },
   "devDependencies": {
     "jquery": "^2.2.4"
